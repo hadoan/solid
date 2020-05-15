@@ -16,7 +16,7 @@ namespace NameSorter
 
             if (args.Length != 2)
             {
-                Console.WriteLine("Please indicate un-sorted file name in argument, eg: NameSorter.exe unsorted-names-list.txt");
+                Console.WriteLine("Please indicate file names in arguments, eg: dotnet run unsorted-names-list.txt sorted-names-list.txt");
             }
             else
             {
