@@ -6,6 +6,4 @@ Go to NameSorter folder, then run following command:
 
 
 ## Run unit tests
-Go to NameSorter.Tests folder, then run following command:
-
 `dotnet test`
